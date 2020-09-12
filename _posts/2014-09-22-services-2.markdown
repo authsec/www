@@ -1,0 +1,11 @@
+---
+layout: default
+img: yubikey.png
+img_url: http://mod_authn_yubikey.coffeecrew.org/
+category: Services
+title: Apache YubiKey Authentication Module (mod_authn_yubikey)
+description: |
+---
+
+With this module you can leverage your YubiKey to authenticate against apache.
+<br><br>[https://yubikey.coffeecrew.org/](https://yubikey.coffeecrew.org/)
