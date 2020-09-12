@@ -1,0 +1,12 @@
+---
+layout: default
+img: datapile.png
+img_url: https://datapile.coffeecrew.org/
+category: Services
+title: The Datapile Blog
+description: |
+---
+
+A blog about things I might otherwise forget.
+
+[https://datapile.coffeecrew.org/](https://datapile.coffeecrew.org/)
