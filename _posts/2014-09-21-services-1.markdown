@@ -7,4 +7,4 @@ title: CoffeeCrew Mail
 description: |
 ---
 
-To access your CoffeeCrew mail account you can either click on the big image or visit<br><br>[https://ada.coffeecrew.net/mail](https://ada.coffeecrew.net/mail)
+To access your CoffeeCrew mail account you can either click on the big image or visit<br><br>[https://webmail.coffeecrew.org/](https://webmail.coffeecrew.org/)
