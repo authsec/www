@@ -1,7 +1,7 @@
 ---
 layout: default
 img: email.png
-img_url: https://ada.coffeecrew.net/mail
+img_url: https://webmail.gandi.net/
 category: Services
 title: CoffeeCrew Mail
 description: |
